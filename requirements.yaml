@@ -20,5 +20,5 @@ dependencies:
       - earthkit-plots
       - earthkit-regrid
       - cf-units
-      - git+https://github.com/CS-SI/eodag.git@v3.0.0b2
       - localtileserver
+      - eodag
